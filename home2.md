@@ -2,21 +2,21 @@
 title: Summary
 description: 
 published: true
-date: 2024-07-29T13:39:52.226Z
+date: 2024-07-29T13:45:28.584Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-20T09:24:11.847Z
 ---
 
 # Summary
-- Home
-- Common Resources
+- **Home**
+- **Common Resources**
   - Coding Standards
   - Development Guidelines
   - Tools and Environment
   - Security Policies
   - Deployment Procedures
-- GreenSpaces
+- **GreenSpaces**
   - Overview
   - Requirements
   - Architecture
@@ -24,16 +24,16 @@ dateCreated: 2024-07-20T09:24:11.847Z
   - Installation
   - Configurations
   - API Documentation
-  - Modules
-		- Gateway
-  	- Benefits
-  	- Meteo
+  - *Modules*
+    - Gateway
+    - Benefits
+    - Meteo
     - SmartIrrigation
     - Sensors
-  - Troubleshooting
-  - Change Log
-  - Legacy Notes
-- Workspaces
+    - Troubleshooting
+    - Change Log
+    - Legacy Notes
+    - Workspaces
 	- Overview
   - Requirements
   - Architecture
@@ -43,9 +43,9 @@ dateCreated: 2024-07-20T09:24:11.847Z
   - API Documentation
   - Troubleshooting
   - Change Log
-  - Legacy Notes
-- RoadSpaces
-	- Overview
+  - Legacy Notes 
+- **RoadSpaces**
+  - Overview
   - Requirements
   - Architecture
   - Getting Started (to develop)
@@ -55,7 +55,7 @@ dateCreated: 2024-07-20T09:24:11.847Z
   - Troubleshooting
   - Change Log
   - Legacy Notes
-- Legacy Products
-- Templates
+- **Legacy Products**
+- **Templates**
   - API Documentation Template
   - Architecture Overview Template
